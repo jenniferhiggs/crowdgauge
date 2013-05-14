@@ -1,6 +1,6 @@
 {
   "name": "crowdgauge",
-  "subdomain": "crowdgauge_demo",
+  "subdomain": "crowdgauge_nashvillenext",
   "scripts": {
     "start": "index.js"
   },
